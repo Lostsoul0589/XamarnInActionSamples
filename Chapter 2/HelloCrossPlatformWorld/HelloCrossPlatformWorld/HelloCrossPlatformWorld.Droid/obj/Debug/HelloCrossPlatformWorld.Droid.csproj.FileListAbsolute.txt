@@ -1,0 +1,58 @@
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/bin/Debug/HelloCrossPlatformWorld.Droid.dll
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/bin/Debug/HelloCrossPlatformWorld.Droid.pdb
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/bin/Debug/com.companyname.HelloCrossPlatformWorld.apk
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/bin/Debug/com.companyname.HelloCrossPlatformWorld-Signed.apk
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/bin/Debug/HelloCrossPlatformWorld.Core.dll
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/bin/Debug/HelloCrossPlatformWorld.Core.pdb
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/HelloCrossPlatformWorld.Droid.csprojResolveAssemblyReference.cache
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/HelloCrossPlatformWorld.Droid.csproj.CoreCompileInputs.cache
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/HelloCrossPlatformWorld.Droid.dll
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/HelloCrossPlatformWorld.Droid.pdb
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/android/bin/com.companyname.HelloCrossPlatformWorld.apk
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/drawable/splash.png
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/mipmap-hdpi/ic_launcher.png
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/mipmap-mdpi/ic_launcher.png
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/mipmap-xhdpi/ic_launcher.png
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/mipmap-xxhdpi/ic_launcher.png
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/mipmap-xxxhdpi/ic_launcher.png
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/layout/firstview.xml
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/layout/splashscreen.xml
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/layout/toolbar.xml
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/values/arrays.xml
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/values/colors.xml
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/values/dimens.xml
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/values/integers.xml
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/values/splashstyle.xml
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/values/strings.xml
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/values/styles.xml
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/res/values-v21/styles.xml
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/R.cs.flag
+/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj/Debug/uploadflags.txt
+bin/Debug/MvvmCross.Binding.dll.mdb
+bin/Debug/MvvmCross.Binding.Droid.dll.mdb
+bin/Debug/MvvmCross.Core.dll.mdb
+bin/Debug/MvvmCross.Droid.dll.mdb
+bin/Debug/MvvmCross.Droid.Support.Core.UI.dll.mdb
+bin/Debug/MvvmCross.Droid.Support.Fragment.dll.mdb
+bin/Debug/MvvmCross.Droid.Support.V7.AppCompat.dll.mdb
+bin/Debug/MvvmCross.Droid.Support.V7.RecyclerView.dll.mdb
+bin/Debug/MvvmCross.Localization.dll.mdb
+bin/Debug/MvvmCross.Platform.dll.mdb
+bin/Debug/MvvmCross.Platform.Droid.dll.mdb
+bin/Debug/Mono.Android.pdb
+bin/Debug/Mono.Android.Export.pdb
+obj/Debug/linksrc/MvvmCross.Binding.dll.mdb
+obj/Debug/linksrc/MvvmCross.Binding.Droid.dll.mdb
+obj/Debug/linksrc/MvvmCross.Core.dll.mdb
+obj/Debug/linksrc/MvvmCross.Droid.dll.mdb
+obj/Debug/linksrc/MvvmCross.Droid.Support.Core.UI.dll.mdb
+obj/Debug/linksrc/MvvmCross.Droid.Support.Fragment.dll.mdb
+obj/Debug/linksrc/MvvmCross.Droid.Support.V7.AppCompat.dll.mdb
+obj/Debug/linksrc/MvvmCross.Droid.Support.V7.RecyclerView.dll.mdb
+obj/Debug/linksrc/MvvmCross.Localization.dll.mdb
+obj/Debug/linksrc/MvvmCross.Platform.dll.mdb
+obj/Debug/linksrc/MvvmCross.Platform.Droid.dll.mdb
+obj/Debug/linksrc/HelloCrossPlatformWorld.Droid.pdb
+obj/Debug/linksrc/HelloCrossPlatformWorld.Core.pdb
+obj/Debug/linksrc/Mono.Android.pdb
+obj/Debug/linksrc/Mono.Android.Export.pdb
