@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CCDC1089-1AE0-4A9F-BC6C-FA337FA980B9}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloCrossPlatformWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0D32B7F1-F5F1-47A4-9DD9-01E3BE874D21" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/ViewModels/FirstViewModel.cs">
+    <Files>
+      <File FileName="HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/ViewModels/FirstViewModel.cs" Line="8" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HelloCrossPlatformWorld.Droid PreferredExecutionTarget="Android.nexus_5x_-_oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
