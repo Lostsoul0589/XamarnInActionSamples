@@ -1,9 +1,9 @@
-# Version: 11.6.1.4 (xcode9.2: db807ec9)
+# Version: 11.6.1.2 (xcode9.2: 6857dfcc)
 # [first argument, ignore] # --cache
-/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.4/lib/mtouch/mtouch.exe \
-	'/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache' \
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.6.1.2/lib/mtouch/mtouch.exe \
+	/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache \
 	--sim \
-	'/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/HelloCrossPlatformWorld.iOS.app' \
+	/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/HelloCrossPlatformWorld.iOS.app \
 	--executable \
 	HelloCrossPlatformWorld.iOS \
 	--debug \
@@ -18,26 +18,30 @@
 	--http-message-handler=HttpClientHandler \
 	--abi=x86_64 \
 	--symbollist \
-	'/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-symbols.list' \
+	/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-symbols.list \
 	--dsym=no \
 	-r \
-	'/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/bin/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.dll' \
+	/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/bin/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.binding/5.2.1/lib/Xamarin.iOS10/MvvmCross.Binding.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.binding/5.2.1/lib/Xamarin.iOS10/MvvmCross.Binding.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.binding/5.2.1/lib/Xamarin.iOS10/MvvmCross.Binding.iOS.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.binding/5.2.1/lib/Xamarin.iOS10/MvvmCross.Binding.iOS.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.core/5.2.1/lib/Xamarin.iOS10/MvvmCross.Core.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.core/5.2.1/lib/Xamarin.iOS10/MvvmCross.Core.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.core/5.2.1/lib/Xamarin.iOS10/MvvmCross.iOS.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.core/5.2.1/lib/Xamarin.iOS10/MvvmCross.iOS.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.binding/5.2.1/lib/Xamarin.iOS10/MvvmCross.Localization.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.binding/5.2.1/lib/Xamarin.iOS10/MvvmCross.Localization.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.platform/5.2.1/lib/Xamarin.iOS10/MvvmCross.Platform.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.platform/5.2.1/lib/Xamarin.iOS10/MvvmCross.Platform.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.platform/5.2.1/lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.platform/5.2.1/lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll \
+	-r \
+	/Users/cartel24/.nuget/packages/xam.plugins.texttospeech/3.3.2/lib/Xamarin.iOS10/Plugin.TextToSpeech.Abstractions.dll \
+	-r \
+	/Users/cartel24/.nuget/packages/xam.plugins.texttospeech/3.3.2/lib/Xamarin.iOS10/Plugin.TextToSpeech.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	-r \
@@ -321,21 +325,25 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.binding/5.2.1/lib/Xamarin.iOS10/MvvmCross.Binding.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.binding/5.2.1/lib/Xamarin.iOS10/MvvmCross.Binding.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.binding/5.2.1/lib/Xamarin.iOS10/MvvmCross.Binding.iOS.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.binding/5.2.1/lib/Xamarin.iOS10/MvvmCross.Binding.iOS.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.binding/5.2.1/lib/Xamarin.iOS10/MvvmCross.Localization.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.binding/5.2.1/lib/Xamarin.iOS10/MvvmCross.Localization.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.core/5.2.1/lib/Xamarin.iOS10/MvvmCross.Core.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.core/5.2.1/lib/Xamarin.iOS10/MvvmCross.Core.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.core/5.2.1/lib/Xamarin.iOS10/MvvmCross.iOS.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.core/5.2.1/lib/Xamarin.iOS10/MvvmCross.iOS.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.platform/5.2.1/lib/Xamarin.iOS10/MvvmCross.Platform.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.platform/5.2.1/lib/Xamarin.iOS10/MvvmCross.Platform.dll \
 	-r \
-	/Users/luce/.nuget/packages/mvvmcross.platform/5.2.1/lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll \
+	/Users/cartel24/.nuget/packages/mvvmcross.platform/5.2.1/lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll \
 	-r \
-	'/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/bin/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.dll' \
+	/Users/cartel24/.nuget/packages/xam.plugins.texttospeech/3.3.2/lib/Xamarin.iOS10/Plugin.TextToSpeech.Abstractions.dll \
+	-r \
+	/Users/cartel24/.nuget/packages/xam.plugins.texttospeech/3.3.2/lib/Xamarin.iOS10/Plugin.TextToSpeech.dll \
+	-r \
+	/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/bin/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.dll \
 	--target-framework \
 	'Xamarin.iOS,v1.0' \
-	'/Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/bin/iPhoneSimulator/Debug/HelloCrossPlatformWorld.iOS.exe' \
+	/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/bin/iPhoneSimulator/Debug/HelloCrossPlatformWorld.iOS.exe \

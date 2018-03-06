@@ -7,3 +7,12 @@
 /Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/obj/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.AssemblyInfo.cs
 /Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/obj/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.dll
 /Users/luce/Documents/Xamarin in Action/Chapter 2/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/obj/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.pdb
+/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/bin/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.deps.json
+/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/bin/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.dll
+/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/bin/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.pdb
+/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/obj/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.csprojResolveAssemblyReference.cache
+/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/obj/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.csproj.CoreCompileInputs.cache
+/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/obj/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.AssemblyInfoInputs.cache
+/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/obj/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.AssemblyInfo.cs
+/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/obj/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.dll
+/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/obj/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.pdb

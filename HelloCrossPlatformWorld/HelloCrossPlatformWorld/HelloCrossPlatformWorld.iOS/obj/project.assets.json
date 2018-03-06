@@ -533,33 +533,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/luce/.nuget/packages/": {}
+    "/Users/cartel24/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/luce/Documents/Xamarin in Action/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/HelloCrossPlatformWorld.iOS.csproj",
+      "projectUniqueName": "/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/HelloCrossPlatformWorld.iOS.csproj",
       "projectName": "HelloCrossPlatformWorld.iOS",
-      "projectPath": "/Users/luce/Documents/Xamarin in Action/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/HelloCrossPlatformWorld.iOS.csproj",
-      "packagesPath": "/Users/luce/.nuget/packages/",
-      "outputPath": "/Users/luce/Documents/Xamarin in Action/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/obj",
+      "projectPath": "/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/HelloCrossPlatformWorld.iOS.csproj",
+      "packagesPath": "/Users/cartel24/.nuget/packages/",
+      "outputPath": "/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/luce/.config/NuGet/NuGet.Config"
+        "/Users/cartel24/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
         "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin/": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/xamarinforms-ci/api/v2": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/luce/Documents/Xamarin in Action/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/HelloCrossPlatformWorld.Core.csproj": {
-              "projectPath": "/Users/luce/Documents/Xamarin in Action/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/HelloCrossPlatformWorld.Core.csproj"
+            "/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/HelloCrossPlatformWorld.Core.csproj": {
+              "projectPath": "/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/HelloCrossPlatformWorld.Core.csproj"
             }
           }
         }

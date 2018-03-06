@@ -4031,31 +4031,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/luce/.nuget/packages/": {},
+    "/Users/cartel24/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/luce/Documents/Xamarin in Action/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/HelloCrossPlatformWorld.Core.csproj",
+      "projectUniqueName": "/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/HelloCrossPlatformWorld.Core.csproj",
       "projectName": "HelloCrossPlatformWorld.Core",
-      "projectPath": "/Users/luce/Documents/Xamarin in Action/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/HelloCrossPlatformWorld.Core.csproj",
-      "packagesPath": "/Users/luce/.nuget/packages/",
-      "outputPath": "/Users/luce/Documents/Xamarin in Action/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/obj",
+      "projectPath": "/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/HelloCrossPlatformWorld.Core.csproj",
+      "packagesPath": "/Users/cartel24/.nuget/packages/",
+      "outputPath": "/Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/luce/.config/NuGet/NuGet.Config"
+        "/Users/cartel24/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard1.4"
       ],
       "sources": {
         "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin/": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/xamarinforms-ci/api/v2": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard1.4": {

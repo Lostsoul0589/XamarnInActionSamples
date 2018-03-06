@@ -1,15 +1,32 @@
 using MvvmCross.Core.ViewModels;
+using System.Windows.Input;
+using Plugin.TextToSpeech.Abstractions;
 
 namespace HelloCrossPlatformWorld.Core.ViewModels
 {
 	public class FirstViewModel
 		: MvxViewModel
 	{
-		string hello = "Hello Xamarin in Action";
-		public string Hello
+        readonly ITextToSpeech textToSpeech;
+
+        public FirstViewModel(ITextToSpeech textToSpeech)
+        {
+            this.textToSpeech = textToSpeech;
+            SayHelloCommand = new MvxCommand(SayHello);
+        }
+
+        public ICommand SayHelloCommand { get; private set; }
+
+        void SayHello()
+        {
+            textToSpeech.Speak($"Hello {Name}");
+        }
+
+        string name = "";
+		public string Name
 		{
-			get { return hello; }
-			set { SetProperty(ref hello, value); }
+			get { return name; }
+			set { SetProperty(ref name, value); }
 		}
 	}
 }
