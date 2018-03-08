@@ -1,16 +1,15 @@
 ﻿<Properties StartupConfiguration="{CCDC1089-1AE0-4A9F-BC6C-FA337FA980B9}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloCrossPlatformWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7B23F637-ECD4-4C25-B68D-3C38387CB6BC" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloCrossPlatformWorld Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/Views/FirstView.cs">
     <Files>
       <File FileName="HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/ViewModels/FirstViewModel.cs" Line="15" Column="55" />
-      <File FileName="HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/Views/FirstView.cs" Line="26" Column="1" />
+      <File FileName="HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/Views/FirstView.cs" Line="22" Column="65" />
       <File FileName="HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/App.cs" Line="11" Column="60" />
-      <File FileName="HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/Views/FirstView.storyboard" />
       <File FileName="HelloCrossPlatformWorld Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.HelloCrossPlatformWorld.Droid PreferredExecutionTarget="Android.nexus_5x_-_oreo" />
+  <MonoDevelop.Ide.ItemProperties.HelloCrossPlatformWorld.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.nexus_5x_-_oreo" AndroidDesignerPreferredTheme="MyTheme" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

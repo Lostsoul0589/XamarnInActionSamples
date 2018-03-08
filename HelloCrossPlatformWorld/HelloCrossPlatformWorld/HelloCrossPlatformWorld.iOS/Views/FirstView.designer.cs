@@ -19,6 +19,10 @@ namespace HelloCrossPlatformWorld.iOS.Views
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton SayHelloButton { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UITextField TextField { get; set; }
 
         void ReleaseDesignerOutlets ()
@@ -26,6 +30,11 @@ namespace HelloCrossPlatformWorld.iOS.Views
             if (Label != null) {
                 Label.Dispose ();
                 Label = null;
+            }
+
+            if (SayHelloButton != null) {
+                SayHelloButton.Dispose ();
+                SayHelloButton = null;
             }
 
             if (TextField != null) {

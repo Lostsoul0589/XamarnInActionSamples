@@ -1,4 +1,6 @@
 using MvvmCross.Platform.IoC;
+using MvvmCross.Platform;
+using Plugin.TextToSpeech;
 
 namespace HelloCrossPlatformWorld.Core
 {
@@ -6,6 +8,7 @@ namespace HelloCrossPlatformWorld.Core
 	{
 		public override void Initialize()
 		{
+            Mvx.RegisterSingleton(CrossTextToSpeech.Current);
 			CreatableTypes()
 				.EndingWith("Service")
 				.AsInterfaces()

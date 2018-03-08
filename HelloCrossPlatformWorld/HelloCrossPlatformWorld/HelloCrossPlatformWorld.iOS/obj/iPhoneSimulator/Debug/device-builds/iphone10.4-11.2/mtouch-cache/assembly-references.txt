@@ -31,3 +31,4 @@
 /Users/cartel24/.nuget/packages/mvvmcross.binding/5.2.1/lib/Xamarin.iOS10/MvvmCross.Binding.iOS.dll
 /Users/cartel24/Projects/Lostsoul0589/XamarnInActionSamples.git/HelloCrossPlatformWorld/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/bin/Debug/netstandard1.4/HelloCrossPlatformWorld.Core.dll
 /Users/cartel24/.nuget/packages/xam.plugins.texttospeech/3.3.2/lib/Xamarin.iOS10/Plugin.TextToSpeech.Abstractions.dll
+/Users/cartel24/.nuget/packages/xam.plugins.texttospeech/3.3.2/lib/Xamarin.iOS10/Plugin.TextToSpeech.dll
