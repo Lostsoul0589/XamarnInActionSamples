@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>SqrRt.iOS</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.companyname.SqrRt.iOS</string>
+	<string>uk.co.lucyscarter.SqrRt.iOS</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -41,5 +41,7 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
+	<key>CFBundleName</key>
+	<string>SqrRt.iOS</string>
 </dict>
 </plist>
