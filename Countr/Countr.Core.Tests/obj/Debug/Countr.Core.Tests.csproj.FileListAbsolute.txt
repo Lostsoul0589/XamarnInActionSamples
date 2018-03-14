@@ -1,0 +1,2 @@
+/Users/luce/Documents/Development/Mobile Development/Xamarin/XamarinInAction/XamarnInActionSamples.git/Countr/Countr.Core.Tests/obj/Debug/Countr.Core.Tests.csprojResolveAssemblyReference.cache
+/Users/luce/Documents/Development/Mobile Development/Xamarin/XamarinInAction/XamarnInActionSamples.git/Countr/Countr.Core.Tests/obj/Debug/Countr.Core.Tests.csproj.CoreCompileInputs.cache

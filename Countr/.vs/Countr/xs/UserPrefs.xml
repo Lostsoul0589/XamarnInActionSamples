@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{37347466-01E7-4A74-B926-751E05AA9AC5}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Countr/Countr.Core/App.cs">
+    <Files>
+      <File FileName="Countr/Countr.Core/ViewModels/CounterViewModel.cs" Line="16" Column="55" />
+      <File FileName="Countr.Core.Tests/ViewModels/CounterViewModelTests.cs" Line="82" Column="23" />
+      <File FileName="Countr/Countr.Core/ViewModels/CountersViewModel.cs" Line="31" Column="21" />
+      <File FileName="Countr.Core.Tests/ViewModels/CountersViewModelTests.cs" Line="22" Column="33" />
+      <File FileName="Countr/Countr.Core/Services/ICountersService.cs" Line="11" Column="24" />
+      <File FileName="Countr/Countr.Core/Services/CountersChangedMessage.cs" Line="6" Column="61" />
+      <File FileName="Countr/Countr.Core/Services/CountersService.cs" Line="20" Column="49" />
+      <File FileName="Countr.Core.Tests/Services/CountersServiceTests.cs" Line="22" Column="18" />
+      <File FileName="Countr.Core.Tests/packages.config" Line="13" Column="12" />
+      <File FileName="Countr/Countr.Core/App.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Countr.Droid PreferredExecutionTarget="Android.nexus_5x_-_oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
